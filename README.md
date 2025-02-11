@@ -12,3 +12,4 @@ If you want to compete or contribute these are the rules
 7. Your code must be reasonable. Abusing bugs/glitches is not allowed.
 8. Your site must be accessable. The site cannot flicker, or only work on certain devices/browsers.
 9. Your site must be online. Github pages is recommened.
+10. You cannot import external sources. For example you couldnt write an html file that just loads a js file from afar. When measured it will be included.
